@@ -1,0 +1,23 @@
+{
+  "name": "vscode-ogaty-pack",
+  "displayName": "vscode ogaty Pack",
+  "description": "vscode extensions pack",
+  "version": "0.1.0",
+  "publisher": "Yuji Ogata",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "repository": "https://git.jetbrains.space/ogatism/others/vscode-ogaty-pack.git",
+  "icon": "icon.png",
+  "categories": [
+    "Extension Packs"
+  ],
+  "contributes": {
+  },
+  "extensionPack": [
+    "eamodio.gitlens",
+    "calebporzio.better-phpunit",
+    "yatki.vscode-surround",
+    "chakrounanas.turbo-console-log"
+  ]
+}
