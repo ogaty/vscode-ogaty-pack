@@ -1,4 +1,4 @@
-# ogaty-keybindings
+# vscode-ogaty-pack
 
-keybind統一計画
+初期インストールextension pack
 
