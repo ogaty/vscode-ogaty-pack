@@ -2,7 +2,7 @@
   "name": "vscode-ogaty-pack",
   "displayName": "vscode ogaty Pack",
   "description": "vscode extensions pack",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "Yuji Ogata",
   "engines": {
     "vscode": "^1.70.0"
@@ -15,9 +15,11 @@
   "contributes": {
   },
   "extensionPack": [
+    "pkief.material-icon-theme",
     "eamodio.gitlens",
-    "calebporzio.better-phpunit",
     "yatki.vscode-surround",
-    "chakrounanas.turbo-console-log"
+    "chakrounanas.turbo-console-log",
+    "marclipovsky.string-manipulation",
+    "calebporzio.better-phpunit"
   ]
 }
